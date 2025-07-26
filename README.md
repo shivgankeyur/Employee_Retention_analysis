@@ -36,7 +36,6 @@ This Power BI project provides a comprehensive analysis of **employee retention*
 ## 📁 Files Included
 
 - `EmployeeRetention.pbix` – Power BI dashboard  
-- `HR_Dataset.xlsx` – Cleaned data in Excel format  
 - `Presentation.pptx` – Project presentation slides  
 - `README.md` – Project documentation
 
