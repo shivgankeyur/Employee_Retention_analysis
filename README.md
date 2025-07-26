@@ -1,4 +1,3 @@
-# Employee_Retention_analysis
 # Employee_Retention_Analysis – Dec-2024
 # 👨‍💼Employee Retention Analysis – Power BI Project (Dec 2024)
 
@@ -55,5 +54,5 @@ This Power BI project provides a comprehensive analysis of **employee retention*
 
 For questions or collaboration:  
 📧 shivgankeyur115@example.com  
-🔗 [LinkedIn]((http://www.linkedin.com/in/keyur-shivgan-7a859224a))
+🔗 [LinkedIn]([http://www.linkedin.com/in/keyur-shivgan-7a859224a])
 
